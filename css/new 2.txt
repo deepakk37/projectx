@@ -1,0 +1,140 @@
+<!--Membership features start -->
+  <section class="white_section section_gap" id="features">
+    <div class="container">
+      <div class="heading">
+        <h1><span>Memberships</span>Include</h1>
+        <p>Phasellus non dolor nibh. Nullam elementum tellus pretium feugiat.<br>
+          Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt in. Sed tincidunt tristique enim sed sollcitudin.</p>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <div class="membership_listing"> <span><i class="fa fa-unlock-alt"></i></span>
+            <h3>Unlimited access</h3>
+            <p>Morbi leo risus, porta ac consectetur, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <div class="membership_listing"> <span><i class="fa fa-video-camera"></i></span>
+            <h3>4500 video courses</h3>
+            <p>Morbi leo risus, porta ac consectetur, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <div class="membership_listing"> <span><i class="fa fa-microphone"></i></span>
+            <h3>Expert teachers</h3>
+            <p>Morbi leo risus, porta ac consectetur, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </p>
+          </div>
+        </div>
+      </div>
+      <div class="row sec_top_gp">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <div class="membership_listing"> <span><i class="fa fa-file-text-o"></i></span>
+            <h3>Valid Certification</h3>
+            <p>Morbi leo risus, porta ac consectetur, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <div class="membership_listing"> <span><i class="fa fa-mobile"></i></span>
+            <h3>On-the-go learning</h3>
+            <p>Morbi leo risus, porta ac consectetur, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <div class="membership_listing"> <span><i class="fa fa-life-ring"></i></span>
+            <h3>24x7 Super Support</h3>
+            <p>Morbi leo risus, porta ac consectetur, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/Membership features end --> 
+  <!--Available course start-->
+  <section class="grey_section section_gap" >
+    <div class="container">
+      <div class="heading">
+        <h1><span>Available</span>Courses</h1>
+        <p>Phasellus non dolor nibh. Nullam elementum tellus pretium feugiat.<br>
+          Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt in. Sed tincidunt tristique enim sed sollcitudin.</p>
+      </div>
+      <div class="row"> 
+        <!-- Vertical tabs start-->
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+          <ul class="nav nav-tabs custom-nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#graphicesigning" aria-controls="graphicesigning" role="tab" data-toggle="tab">Graphic Designing</a></li>
+            <li role="presentation"><a href="#onlinemarketing" aria-controls="onlinemarketing" role="tab" data-toggle="tab">Online Marketing</a></li>
+            <li role="presentation"><a href="#brandstrategy" aria-controls="brandstrategy" role="tab" data-toggle="tab">Brand &amp; Strategy</a></li>
+            <li role="presentation"><a href="#generalmedicine" aria-controls="generalmedicine" role="tab" data-toggle="tab">Social marketing</a></li>
+            <li role="presentation"><a href="#basicphotography" aria-controls="basicphotography" role="tab" data-toggle="tab">Basic photography</a></li>
+          </ul>
+        </div>
+        <!-- Vertical tabs end--> 
+        <!-- Vertical tabs content start-->
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8 tab_text">
+          <div class="tab-content"> 
+            <!-- Vertical tabs content01 start-->
+            <div role="tabpanel" class="tab-pane active" id="graphicesigning">
+              <div class="row"> <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/graphic-design.jpg" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+                  <h3>Graphic Designing</h3>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte varius at. Sed mollis vestibulum sapien sed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing ante varius at. Sed mollis ves tibulum sapien sed mattis.</p>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte tibulum sapien sed mattis.Cras dictum tellus dui. Sed mollis vestibulum sapien rthsed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing tibulum sapien sed mattis.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Vertical tabs content01 end--> 
+            <!-- Vertical tabs content02 start-->
+            <div role="tabpanel" class="tab-pane fade" id="onlinemarketing">
+              <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/internet-marketing.jpg" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+                  <h3>Online Marketing</h3>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte varius at. Sed mollis vestibulum sapien sed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing ante varius at. Sed mollis ves tibulum sapien sed mattis.</p>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte tibulum sapien sed mattis.Cras dictum tellus dui. Sed mollis vestibulum sapien rthsed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing tibulum sapien sed mattis.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Vertical tabs content02 end--> 
+            <!-- Vertical tabs content03 start-->
+            <div role="tabpanel" class="tab-pane fade" id="brandstrategy">
+              <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/branding.jpg" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+                  <h3>Brand &amp; Strategy</h3>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte varius at. Sed mollis vestibulum sapien sed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing ante varius at. Sed mollis ves tibulum sapien sed mattis.</p>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte tibulum sapien sed mattis.Cras dictum tellus dui. Sed mollis vestibulum sapien rthsed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing tibulum sapien sed mattis.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Vertical tabs content03 end--> 
+            <!-- Vertical tabs content04 start-->
+            <div role="tabpanel" class="tab-pane fade" id="generalmedicine">
+              <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/social-marketing.jpg" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+                  <h3>Social Marketing</h3>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte varius at. Sed mollis vestibulum sapien sed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing ante varius at. Sed mollis ves tibulum sapien sed mattis.</p>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte tibulum sapien sed mattis.Cras dictum tellus dui. Sed mollis vestibulum sapien rthsed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing tibulum sapien sed mattis.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Vertical tabs content04 end--> 
+            <!-- Vertical tabs content05 start-->
+            <div role="tabpanel" class="tab-pane fade" id="basicphotography">
+              <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/photography.jpg" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+                  <h3>Basic photography</h3>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte varius at. Sed mollis vestibulum sapien sed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing ante varius at. Sed mollis ves tibulum sapien sed mattis.</p>
+                  <p>Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt adipiscing atgfnte tibulum sapien sed mattis.Cras dictum tellus dui. Sed mollis vestibulum sapien rthsed mattis.Cras dictum tellus duvi, vitae sollicitudin ipsum tincidunt adipiscing tibulum sapien sed mattis.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Vertical tabs content01 start--> 
+          </div>
+        </div>
+        <!-- Vertical tabs content end--> 
+      </div>
+    </div>
+  </section>
+  <!--/Available course end--> 
